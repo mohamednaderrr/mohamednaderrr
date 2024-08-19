@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nader Rashed</h1>
-<h3 align="center">Frontend Developer from Egypt</h3>
+<h1 align="center">Hello 👋, I'm Mohamed Nader Rashed</h1>
+<h3 align="center">Front-End Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <a href="https://twitter.com/@mo_nader_1" target="blank"><img src="https://img.shields.io/twitter/follow/@mo_nader_1?logo=twitter&style=for-the-badge" alt="@mo_nader_1" /></a> </p>
 
-- 🔭 I’m currently working on **Track Front**
+- 🔭 I’m currently working on **Front-End Developer**
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Frontend,VueJs**
+- 💬 Ask me about **Any Thing About Front-End**
 
 - 📫 How to reach me **mnaderrr200444@gmail.com**
 
-- ⚡ Fun fact **I Am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
