@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mohamed Nader Rashed</h1>
 <h3 align="center" style="font-size: larger";>Front-End Developer</h3>
-<img align="right" alt="Coding" width="800" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="Coding" width="600" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <a href="https://twitter.com/@mo_nader_1" target="blank"><img src="https://img.shields.io/twitter/follow/@mo_nader_1?logo=twitter&style=for-the-badge" alt="@mo_nader_1" /></a> </p>
 
