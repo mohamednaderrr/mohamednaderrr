@@ -1,3 +1,4 @@
+![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-purple?style=for-the-badge&logo=github)
 <h1 align="center">Hello 👋, I'm Mohamed Nader Rashed</h1>
 <h3 align="center" style="font-size: larger";>Front-End Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
