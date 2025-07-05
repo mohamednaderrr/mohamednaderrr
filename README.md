@@ -5,9 +5,6 @@
   <a href="https://www.monader.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-www.monader.me-blue?style=for-the-badge&logo=internet-explorer" />
   </a>
-  <a href="https://twitter.com/mo_nader_1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mo_nader_1?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
 </p>
 
 <img align="right" alt="Coding" width="420" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
